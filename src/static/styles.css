@@ -1,4 +1,4 @@
-/* Color palette */
+ /* Color palette */
 :root {
   /* Primary colors */
   --primary: #1a237e;
@@ -663,4 +663,11 @@ footer {
 
 #logout-button:hover {
   background-color: rgba(255, 255, 255, 0.3);
+}
+.announcement-banner {
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
 }
